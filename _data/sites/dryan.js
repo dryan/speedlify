@@ -1,6 +1,6 @@
 module.exports = {
 	name: "DRyan", // optional, falls back to object key
-	description: "The default sites that get tested",
+	description: "Personal sites",
 	options: {
 		frequency: 60 * 24,
 	},
